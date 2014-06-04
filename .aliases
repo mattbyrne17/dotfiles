@@ -31,12 +31,7 @@ alias pubkey="cat ~/.ssh/id_rsa.pub | pbcopy | echo '=> Public key copied to pas
 
 # Server connections
 
-alias orange='ssh waterstr@thedrums.asmallorange.com'
-alias ocean='ssh -p 8746 saltcod@107.170.55.68'
-alias water='ssh waterstr@patty.machighway.com'
-alias tarl='tar xvzf latest.tar.gz'
-alias birdie='ssh tsutton@birdie.delt.mun.ca'
-alias wpt='cd wp-content/themes'
+alias orange='ssh matthe41@tealc.asmallorange.com'
  
  
 
